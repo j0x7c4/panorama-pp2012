@@ -1,0 +1,30 @@
+(version 2 1)
+
+[ Sites ]
+(site MySite2 d:\source\panorama\panorama\main.cpp 77 MySite2
+    D:\source\Panorama\Release\Panorama.exe main d:\source\panorama\panorama\main.cpp 77 "15622"
+    D:\source\Panorama\Release\Panorama.exe main d:\source\panorama\panorama\main.cpp 62 "15424"
+    D:\source\Panorama\Release\Panorama.exe _tmainCRTStartup f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c 555 "26368"
+    C:\Windows\syswow64\kernel32.dll BaseThreadInitThunk "" 0 "78745"
+    C:\Windows\SysWOW64\ntdll.dll RtlInitializeExceptionChain "" 0 "237297"
+    C:\Windows\SysWOW64\ntdll.dll RtlInitializeExceptionChain "" 0 "237252"
+)
+
+[ Tasks ]
+
+[ Locks ]
+
+(stats
+    [total time] 373767482819
+    [site 0]
+        [instances] 1 354310199192 354310199192 354310199192 1.255357172514747e+023
+        [num_locks] 0
+)
+
+[ Program ]
+(para MySite2 1 1
+  (comp 354310199192 0 0 0 0 0)
+)
+(comp 19457283627 0 0 0 0 0)
+
+[ End ]

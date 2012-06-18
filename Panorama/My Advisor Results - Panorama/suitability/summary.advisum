@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="0.1" 
+                             kind="DATAKIND_SUITABILITY" 
+                             duration_total="3.737675E+001"
+                             num_processors="8" 
+                             threading_paradigm="tbb" >
+  <site filename="d:\source\panorama\panorama\main.cpp" 
+        line_no="77" 
+        label="MySite2">
+    <suitability duration_total="3.543102E+001" 
+                 num_instances="1">
+      <estimated_speedup>
+       <scaling threading_paradigm="tbb" 
+                site_overhead="true" 
+                task_overhead="true" 
+                task_chunking="true" 
+                lock_overhead="true" 
+                lock_contention="true" >
+          <scale cpu="8" speedup="3.543142E+001" />
+        </scaling>
+      </estimated_speedup>
+    </suitability>
+  </site>
+</IntelParallelAdvisorSummary >

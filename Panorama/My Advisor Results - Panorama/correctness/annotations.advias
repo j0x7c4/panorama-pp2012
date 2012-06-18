@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorAnnotationState SYSTEM "IntelParallelAdvisorAnnotationState.dtd"> -->
+<IntelParallelAdvisorAnnotationState
+  version="0.9.0"
+  database="D:\source\Panorama\Panorama\My Advisor Results - Panorama\annotations.advidb">
+  <file name="D:\source\Panorama\Panorama\main.cpp" modification_bin_time="4fdde5ff" lines="150">
+    <annotation kind="#include" line="12" column="2" offset="218" handle="1" label="advisor-annotate.h" />
+    <annotation kind="SiteBegin" line="77" column="3" offset="1827" handle="4" label="MySite2" />
+    <annotation kind="SiteEnd" line="94" column="3" offset="2480" handle="5" label="MySite2" />
+  </file>
+  <statistics files="2" lines="917" />
+</IntelParallelAdvisorAnnotationState>

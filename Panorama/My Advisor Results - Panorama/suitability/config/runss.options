@@ -1,0 +1,17 @@
+-r
+D:\source\Panorama\Panorama\My Advisor Results - Panorama\suitability
+-type
+cpu:stack,projection:stack
+-interval
+10
+-follow-child
+-context-switch
+off
+-data-limit-mb
+1024
+--search-dir
+sym=D:/source/Panorama/Release
+--search-dir
+sym=D:/source/Panorama
+--
+D:\source\Panorama\Release\Panorama.exe

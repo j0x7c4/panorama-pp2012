@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="0.1" 
+                             kind="DATAKIND_CORRECTNESS" 
+                             num_processors="8" 
+                             threading_paradigm="tbb" >
+  <site filename="d:\source\panorama\panorama\main.cpp" 
+        line_no="77" 
+        label="MySite2">
+    <correctness errors="0" 
+                 warnings="0"/>
+                 remarks="0"/>
+  </site> 
+</IntelParallelAdvisorSummary >

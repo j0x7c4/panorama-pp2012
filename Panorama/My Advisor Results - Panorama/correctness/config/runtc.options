@@ -1,0 +1,18 @@
+-r
+D:\source\Panorama\Panorama\My Advisor Results - Panorama\correctness
+-check-datarace
+-check-potential-deadlock
+-save-stack-on-first-access
+-save-stack-on-allocation
+-check-whatif
+-check-stack-access
+-resolution
+superfine
+-stack-depth
+32
+--search-dir
+sym=D:/source/Panorama/Release
+--search-dir
+sym=D:/source/Panorama
+--
+D:\source\Panorama\Release\Panorama.exe

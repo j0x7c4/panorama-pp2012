@@ -1,0 +1,118 @@
+
+=== Start: [2012/06/17 22:15:49] === 
+Threading error analysis: started
+Result file: [D:\source\Panorama\Panorama\My Advisor Results - Panorama\correctness\correctness.advi] 
+Loaded module: D:\source\Panorama\Release\Panorama.exe. 
+Loaded module: C:\Windows\system32\apphelp.dll. 
+Loaded module: C:\Windows\syswow64\KERNELBASE.dll. 
+Loaded module: C:\Windows\syswow64\kernel32.dll. 
+Loaded module: C:\Windows\SysWOW64\ntdll.dll. 
+Loaded module: D:\source\Panorama\Release\ANN.dll. 
+Loaded module: C:\opencv\build\x86\vc10\bin\opencv_highgui231.dll. 
+Loaded module: C:\Windows\syswow64\USER32.dll. 
+Loaded module: C:\Windows\syswow64\GDI32.dll. 
+Loaded module: C:\Windows\syswow64\LPK.dll. 
+Loaded module: C:\Windows\syswow64\USP10.dll. 
+Loaded module: C:\Windows\syswow64\msvcrt.dll. 
+Loaded module: C:\Windows\syswow64\ADVAPI32.dll. 
+Loaded module: C:\Windows\SysWOW64\sechost.dll. 
+Loaded module: C:\Windows\syswow64\RPCRT4.dll. 
+Loaded module: C:\Windows\syswow64\SspiCli.dll. 
+Loaded module: C:\Windows\syswow64\CRYPTBASE.dll. 
+Loaded module: C:\Windows\syswow64\ole32.dll. 
+Loaded module: C:\Windows\syswow64\OLEAUT32.dll. 
+Loaded module: C:\opencv\build\x86\vc10\bin\opencv_core231.dll. 
+Loaded module: C:\Windows\system32\MSVCP100.dll. 
+Loaded module: C:\Windows\system32\MSVCR100.dll. 
+Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll. 
+Loaded module: C:\Windows\system32\AVIFIL32.dll. 
+Loaded module: C:\Windows\system32\WINMM.dll. 
+Loaded module: C:\Windows\system32\MSACM32.dll. 
+Loaded module: C:\Windows\system32\MSVFW32.dll. 
+Loaded module: C:\Windows\syswow64\SHELL32.dll. 
+Loaded module: C:\Windows\syswow64\SHLWAPI.dll. 
+Loaded module: C:\Windows\system32\AVICAP32.dll. 
+Loaded module: C:\Windows\system32\VERSION.dll. 
+Loaded module: C:\opencv\build\x86\vc10\bin\opencv_imgproc231.dll. 
+Loaded module: D:\source\Panorama\Release\tbb.dll. 
+Loaded module: C:\Windows\system32\VCOMP100.DLL. 
+Warning: Intel(R) Parallel Advisor 2011 does not support the Microsoft OpenMP Runtime module and may report false positives. Refer to the product release notes. 
+Loaded module: C:\Windows\AppPatch\AcLayers.DLL. 
+Loaded module: C:\Windows\system32\USERENV.dll. 
+Loaded module: C:\Windows\system32\profapi.dll. 
+Loaded module: C:\Windows\system32\WINSPOOL.DRV. 
+Loaded module: C:\Windows\system32\MPR.dll. 
+Loaded module: C:\Windows\system32\IMM32.DLL. 
+Loaded module: C:\Windows\syswow64\MSCTF.dll. 
+Loaded module: C:\Windows\SysWOW64\nvinit.dll. 
+Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll. 
+Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll. 
+Loaded module: C:\Windows\syswow64\SETUPAPI.dll. 
+Loaded module: C:\Windows\syswow64\CFGMGR32.dll. 
+Loaded module: C:\Windows\syswow64\DEVOBJ.dll. 
+Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll. 
+Loaded module: C:\Windows\system32\uxtheme.dll. 
+Loaded module: C:\Program Files (x86)\RocketDock\RocketDock.dll. 
+Loaded module: C:\Windows\syswow64\PSAPI.DLL. 
+Loaded module: C:\Program Files (x86)\Intel\Parallel Studio 2011\Advisor\bin32\runtime\libittnotify.dll. 
+Loaded module: C:\Windows\system32\dwmapi.dll. 
+Loaded module: C:\Windows\system32\ole32.dll. 
+Unloaded module: C:\Windows\system32\ole32.dll. 
+Unloaded module: D:\source\Panorama\Release\Panorama.exe. 
+Unloaded module: C:\Windows\system32\apphelp.dll. 
+Unloaded module: C:\Windows\syswow64\KERNELBASE.dll. 
+Unloaded module: C:\Windows\syswow64\kernel32.dll. 
+Unloaded module: C:\Windows\SysWOW64\ntdll.dll. 
+Unloaded module: D:\source\Panorama\Release\ANN.dll. 
+Unloaded module: C:\opencv\build\x86\vc10\bin\opencv_highgui231.dll. 
+Unloaded module: C:\Windows\syswow64\USER32.dll. 
+Unloaded module: C:\Windows\syswow64\GDI32.dll. 
+Unloaded module: C:\Windows\syswow64\LPK.dll. 
+Unloaded module: C:\Windows\syswow64\USP10.dll. 
+Unloaded module: C:\Windows\syswow64\msvcrt.dll. 
+Unloaded module: C:\Windows\syswow64\ADVAPI32.dll. 
+Unloaded module: C:\Windows\SysWOW64\sechost.dll. 
+Unloaded module: C:\Windows\syswow64\RPCRT4.dll. 
+Unloaded module: C:\Windows\syswow64\SspiCli.dll. 
+Unloaded module: C:\Windows\syswow64\CRYPTBASE.dll. 
+Unloaded module: C:\Windows\syswow64\ole32.dll. 
+Unloaded module: C:\Windows\syswow64\OLEAUT32.dll. 
+Unloaded module: C:\opencv\build\x86\vc10\bin\opencv_core231.dll. 
+Unloaded module: C:\Windows\system32\MSVCP100.dll. 
+Unloaded module: C:\Windows\system32\MSVCR100.dll. 
+Unloaded module: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll. 
+Unloaded module: C:\Windows\system32\AVIFIL32.dll. 
+Unloaded module: C:\Windows\system32\WINMM.dll. 
+Unloaded module: C:\Windows\system32\MSACM32.dll. 
+Unloaded module: C:\Windows\system32\MSVFW32.dll. 
+Unloaded module: C:\Windows\syswow64\SHELL32.dll. 
+Unloaded module: C:\Windows\syswow64\SHLWAPI.dll. 
+Unloaded module: C:\Windows\system32\AVICAP32.dll. 
+Unloaded module: C:\Windows\system32\VERSION.dll. 
+Unloaded module: C:\opencv\build\x86\vc10\bin\opencv_imgproc231.dll. 
+Unloaded module: D:\source\Panorama\Release\tbb.dll. 
+Unloaded module: C:\Windows\system32\VCOMP100.DLL. 
+Unloaded module: C:\Windows\AppPatch\AcLayers.DLL. 
+Unloaded module: C:\Windows\system32\USERENV.dll. 
+Unloaded module: C:\Windows\system32\profapi.dll. 
+Unloaded module: C:\Windows\system32\WINSPOOL.DRV. 
+Unloaded module: C:\Windows\system32\MPR.dll. 
+Unloaded module: C:\Windows\system32\IMM32.DLL. 
+Unloaded module: C:\Windows\syswow64\MSCTF.dll. 
+Unloaded module: C:\Windows\SysWOW64\nvinit.dll. 
+Unloaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll. 
+Unloaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll. 
+Unloaded module: C:\Windows\syswow64\SETUPAPI.dll. 
+Unloaded module: C:\Windows\syswow64\CFGMGR32.dll. 
+Unloaded module: C:\Windows\syswow64\DEVOBJ.dll. 
+Unloaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll. 
+Unloaded module: C:\Windows\system32\uxtheme.dll. 
+Unloaded module: C:\Program Files (x86)\RocketDock\RocketDock.dll. 
+Unloaded module: C:\Windows\syswow64\PSAPI.DLL. 
+Unloaded module: C:\Program Files (x86)\Intel\Parallel Studio 2011\Advisor\bin32\runtime\libittnotify.dll. 
+Unloaded module: C:\Windows\system32\dwmapi.dll. 
+Process d:\source\panorama\release\panorama.exe (PID = 10352) has terminated. 
+Application exit code: [0] 
+Result file: [D:\source\Panorama\Panorama\My Advisor Results - Panorama\correctness\correctness.advi] 
+Threading error analysis: completed
+=== End: [2012/06/17 22:27:50] === 

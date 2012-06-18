@@ -1,0 +1,73 @@
+﻿Build started 2012/6/19 3:51:37.
+     1>Project "D:\source\Panorama\Panorama\Panorama.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Panorama.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>C:\opencv\build\include\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+                 C:\opencv\build\include\opencv2/flann/flann.hpp(278) : see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+     1>d:\source\panorama\panorama\getFeaturePoint.h(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(146): warning C4309: '=' : truncation of constant value
+     1>d:\source\panorama\panorama\getFeaturePoint.h(61): warning C4101: 'ImageData' : unreferenced local variable
+     1>d:\source\panorama\panorama\getFeaturePoint.h(190): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(213): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(320): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(321): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(347): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(359): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(373): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(415): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(424): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(435): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(629): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\source\panorama\panorama\getFeaturePoint.h(643): warning C4018: '>' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(665): warning C4018: '>' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(667): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\source\panorama\panorama\getFeaturePoint.h(633): warning C4101: 'inlier' : unreferenced local variable
+     1>main.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>main.cpp(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(40): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(46): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>main.cpp(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>main.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>main.cpp(80): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(115): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(147): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\source\Panorama\Release\Panorama.exe" /INCREMENTAL:NO /NOLOGO ANN.lib opencv_features2d231.lib opencv_highgui231.lib opencv_core231.lib opencv_imgproc231.lib opencv_ml231.lib opencv_objdetect231.lib opencv_video231.lib opencv_contrib231.lib opencv_calib3d231.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Panorama.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\source\Panorama\Release\Panorama.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\source\Panorama\Release\Panorama.lib" /MACHINE:X86 Release\main.obj
+         Generating code
+         Finished generating code
+         Panorama.vcxproj -> D:\source\Panorama\Release\Panorama.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\source\Panorama\Release\Panorama.exe;#1" /manifest Release\Panorama.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Panorama.unsuccessfulbuild".
+         Touching "Release\Panorama.lastbuildstate".
+     1>Done Building Project "D:\source\Panorama\Panorama\Panorama.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.02

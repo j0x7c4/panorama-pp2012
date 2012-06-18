@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1339942409</timestamp>
+  <hostname>Jie-PC</hostname>
+  <os>windows</os>
+  <product>Intel® Parallel Advisor 2011 Update 3</product>
+  <buildNumber type="s32_t">186618</buildNumber>
+  <variables>
+   <at>st</at>
+  </variables>
+ </rdmgr>
+</root>

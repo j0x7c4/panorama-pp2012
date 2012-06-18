@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorAnnotationDatabase SYSTEM "IntelParallelAdvisorAnnotationDatabase.dtd"> -->
+<IntelParallelAdvisorAnnotationDatabase
+  version="0.9.0"
+  database="D:\source\Panorama\Panorama\My Advisor Results - Panorama\annotations.advidb"
+  startup_project="D:\source\Panorama\Panorama\Panorama.vcxproj"
+  next_handle="2"
+  next_site="1"
+  next_task="1">
+  <project name="D:\source\Panorama\Panorama\Panorama.vcxproj">
+    <file name="D:\source\Panorama\Panorama\getFeaturePoint.h" modification_bin_time="4fdf7891" lines="723" />
+    <file name="D:\source\Panorama\Panorama\main.cpp" modification_bin_time="4fdf86b8" lines="185" >
+      <annotation kind="#include" line="12" column="2" offset="218" handle="1" label="advisor-annotate.h" />
+    </file>
+  </project>
+  <statistics files="2" lines="908" />
+</IntelParallelAdvisorAnnotationDatabase>
